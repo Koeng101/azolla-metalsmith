@@ -5,4 +5,4 @@ layout: blog.hbs
 menu-order: 4
 ---
 
-Browse through some of my blog posts:
+Browse through some of my previous work

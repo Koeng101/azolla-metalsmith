@@ -5,4 +5,4 @@ layout: contact.hbs
 menu-order: 3
 ---
 
-Find my telephone in the yellow pages.
+Email me at koeng101@gmail.com

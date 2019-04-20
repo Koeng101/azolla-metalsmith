@@ -1,12 +1,14 @@
 ---
-title: About
-description: The description of our about page.
+title: Why
+description: Why we are engineering Azolla
 layout: about.hbs
 menu-order: 2
 ---
 
-# About me
+# Why engineer Azolla
 
-## Zapping good looks ⚡
+Something here
+
+## 
 
 And other silly information.
